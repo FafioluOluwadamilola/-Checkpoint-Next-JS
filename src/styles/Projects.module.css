@@ -1,0 +1,10 @@
+
+
+.ulList {
+    list-style: none;
+    padding: 0;
+}
+
+.liItem {
+    margin: 0.5rem 0;
+}
